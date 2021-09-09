@@ -1,5 +1,5 @@
 # Decentralized Task App
-Desripion
+
 Using metamask connected to ganache network you can create blockchain tasks.
 
 Technologies used:
